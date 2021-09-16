@@ -1,1 +1,2 @@
 "Ceci est un autre fichier"
+"on ajoute des lignes pour faire des commits"
