@@ -5,3 +5,4 @@ def tri_liste(liste) :
 		if a>b :
 			liste[i],liste[i+1]=b,a
 	print(liste)
+#ekjfnzekjnfjkzjkfjk
