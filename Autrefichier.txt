@@ -1,6 +1,3 @@
 "Ceci est un autre fichier"
-<<<<<<< HEAD
 "on ajoute des lignes pour faire des commits"
 "ça devient un peu chiant"
-=======
->>>>>>> 3e908689c69b5ffac3e4445f718b2f677bbcbd2b
