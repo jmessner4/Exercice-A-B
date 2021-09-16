@@ -6,3 +6,4 @@ def tri_liste(liste) :
 			liste[i],liste[i+1]=b,a
 	print(liste)
 #is this working ?
+#c'est le tour de Tri
