@@ -7,3 +7,4 @@ def tri_liste(liste) :
 	print(liste)
 #is this working ?
 #c'est le tour de Tri
+#?
